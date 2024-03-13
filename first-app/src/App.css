@@ -1,0 +1,14 @@
+
+input{
+    width: 100%;
+}
+.items-container{
+    text-align: left;
+}
+.app-row{
+    margin: 10px 10px;
+}
+.app-button{
+    min-width: 80px;
+    align-items: left;
+}
